@@ -5,6 +5,10 @@
 # Ejemplo: {"nombre": "Profesor/a", "idea": "Un asistente de IA para organizar libros en la biblioteca"}
 
 ideas_de_proyectos_ia = [
+    {"alex","una ia que cree recetas de comida"}
+    {"alex","una ia que haga papiroflexia"}
+    {"alex","una ia que detecte bichos"}
+    {"alex","una ia que haga arte"}
     # --- ¡Añade tu propia contribución debajo de esta línea! ---
     # No borres lo que otros compañeros hayan añadido.
     # Asegúrate de que cada idea sea un diccionario y esté separada por una coma si no es la última.
