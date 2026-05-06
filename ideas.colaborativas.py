@@ -9,6 +9,7 @@ ideas_de_proyectos_ia = [
     {"nombre":"alex","idea":"una ia que haga papiroflexia"}
     {"nombre":"alex","idea":"una ia que detecte bichos"}
     {"nombre":"alex","idea":"una ia que haga arte"}
+    {ramon, una ia que detecte mentiras en redes sociales}
     # --- ¡Añade tu propia contribución debajo de esta línea! ---
     # No borres lo que otros compañeros hayan añadido.
     # Asegúrate de que cada idea sea un diccionario y esté separada por una coma si no es la última.
