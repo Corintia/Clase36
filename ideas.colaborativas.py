@@ -10,6 +10,12 @@ ideas_de_proyectos_ia = [
     {"nombre":"alex","idea":"una ia que detecte bichos"}
     {"nombre":"alex","idea":"una ia que haga arte"}
     {"nombre":"ramon","idea": "una ia que detecte mentiras en redes sociales"}
+    {"nombre":"ana","idea":"un robot que te ayude a encontrar a tus mascotas perdidas"}
+    {"nombre":"ana","idea":"una ia que te enseñe a dibujar"}
+    {"nombre":"ana","idea":"una ia que te ayude a organizar tus horarios de clase y en la vida diaria"}
+    {"nombre":"ana","idea":"una ia que te ayude a programar mejor"}
+    {"nombre":"ana","idea":"una ia que te ayude en tus momentos mas vulnerables"}
+    {"nombre":"ana","idea":"una ia cocinera"}
     # --- ¡Añade tu propia contribución debajo de esta línea! ---
     # No borres lo que otros compañeros hayan añadido.
     # Asegúrate de que cada idea sea un diccionario y esté separada por una coma si no es la última.
